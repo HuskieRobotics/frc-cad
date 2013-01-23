@@ -1,0 +1,11 @@
+Chassis Connector Plate = Generic gusset plate that connects other pieces together plate to plate
+Chassis Corner Plate = Connects the exterior four corners of our robot
+
+Chassis Part1 = Outer Length that forms the side frame perimeter and has wheel mounts (there are 2)
+Chassis Part2 = Back Width that forms the back frame perimeter of our robot (there are 1)
+Chassis Part3 = Outer lengths that form the front frame perimeter of our robot (there are 2)
+Chassis Part4 = Inner Length that contains mounts for the toughboxes and wheels (there are 2)
+Chassis Part5 = N/A
+Chassis Part6 = N/A
+Chassis Part7 = Small Inner Length that connects to part8 for the inner cavity (there are 2)
+Chassis Part8 = Inner Width where the climber may mount (there are 1)
