@@ -1,11 +1,25 @@
-Chassis Connector Plate = Generic gusset plate that connects other pieces together plate to plate
-Chassis Corner Plate = Connects the exterior four corners of our robot
+Chassis Part 1 through 8 are the 1x1x1/8 Aluminum Square Tube - (cut to length by each CAD profile)
+THere are no parts 5 or 6 because they were omitted during the design process.
+Two dxf profile sides are provided (horizontal face and vertical face) - all holes are milled completely through. Exception of part8 which has a blank face.
 
+Sheet Metal Parts are labeled by (thickness and "SM" and "Bend")
+For example (0.125 SM Bend) means that the sheet metal thickness of the part is 1/8" and there is a bend in the part.
+Bend locations are indicated by two small rectangular cuts in the 2d sketch - dimensioned at 0.125"x0.375" normal or 0.125"x0.25" if the part is small
+
+SEE "Chassis Numerical Count" for the number of each part to make
+
+
+PARTS:
 Chassis Part1 = Outer Length that forms the side frame perimeter and has wheel mounts
 Chassis Part2 = Back Width that forms the back frame perimeter of our robot
 Chassis Part3 = Outer lengths that form the front frame perimeter of our robot
 Chassis Part4 = Inner Length that contains mounts for the toughboxes and wheels
-Chassis Part5 = N/A
-Chassis Part6 = N/A
 Chassis Part7 = Small Inner Length that connects to part8 for the inner cavity
-Chassis Part8 = Inner Width where the climber may mount
+Chassis Part8 = Inner Width supporting bar
+
+Chassis Connector Plate (0.125 SM) = Generic gusset plate that connects other pieces together plate to plate
+Chassis Corner Plate (0.125 SM) = Connects the exterior four corners of our robot
+Chassis Bumper Mount - front - end (0.125 SM Bend) = bent sheet metal part that connects to the front bumpers
+Chassis Bumper Mount - front and back (0.125 SM Bend) = bent sheet metal part that connects to the front and back bumpers
+Chassis Bumper Mount - side - center (0.125 SM Bend) = bent sheet metal part that connects to the side bumpers from the center
+Chassis Bumper Mount - side - ends (0.125 SM Bend) = bent sheet metal part that connects to the side bumpers

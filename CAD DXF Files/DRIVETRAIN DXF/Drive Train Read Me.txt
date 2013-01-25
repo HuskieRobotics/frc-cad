@@ -1,7 +1,16 @@
-*Mounting Bracket (toughbox-mini - sheet metal - underside) = 1/8" aluminum 90 degree bent sheet metal part that connects a toughbox mini to the underside of the chassis
-*Mounting Bracket (toughbox-mini - sheet metal) = 1/8" aluminum 90 degree bent sheet metal part that connects a toughbox mini to the top side of the chassis
-Wheel Drop Down Plate = 1/16 flat aluminum sheet metal part that drops down the outer wheels (or rather undrops the middle wheels)
-Custom Belt Pulley Hex Hub = 3/16" flat aluminum sheet metal cut to fit into the belt pulleys provided by andymark
+Sheet Metal Parts are labeled by (thickness and "SM" and "Bend")
+For example (0.125 SM Bend) means that the sheet metal thickness of the part is 1/8" and there is a bend in the part.
+Bend locations are indicated by two small rectangular cuts in the 2d sketch - dimensioned at 0.125"x0.375" normal or 0.125"x0.25" if the part is small
 
+SEE "Drive Train Numerical Count" for how many of each part to make
 
-*the location of bends are indicated by a set of two 1/8"x3/8" rectangular cuts in the flat profile of the sheet metal part
+PARTS:
+Custom Belt Pulley Hex Hub (0.1875 SM) = a 3/16" hub that fits into a 0.5" hex shaft
+
+Mounting Bracket 1 - toughbox-mini - underside (0.125 SM Bend) = bent sheet metal part to mount our toughboxes
+
+Mounting Bracket 2 - toughbox-mini (0.125 SM Bend) = second bent sheet metal part to mount our toughboxes
+
+Wheel Drop Down Plate (0.0625 SM) = simply a small 1/16" sheet metal plate
+
+Wheel Mount Support Plate (0.125 SM) = simply a small 1/8" sheet metal plate

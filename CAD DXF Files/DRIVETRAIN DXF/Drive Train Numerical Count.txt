@@ -1,4 +1,8 @@
-2x Mounting Bracket (toughbox-mini - sheet metal - underside)
-2x Mounting Bracket (toughbox-mini - sheet metal)
-4x Custom Belt Pulley Hex Hub
-8x Wheel Drop Down Plate
+4x Custom Belt Pulley Hex Hub (0.1875 SM)
+2x Mounting Bracket 1 - toughbox-mini - underside (0.125 SM Bend)
+2x Mounting Bracket 2 - toughbox-mini (0.125 SM Bend)
+8x Wheel Drop Down Plate (0.0625 SM)
+4x Wheel Mount Support Plate (0.125 SM)
+
+
+SEE "Drive Train Read Me" if not already done so
