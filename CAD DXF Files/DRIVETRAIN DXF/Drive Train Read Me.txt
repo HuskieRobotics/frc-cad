@@ -20,3 +20,5 @@ Wheel Mount Support Plate (0.125 SM) = simply a small 1/8" sheet metal plate
 Bearing Block Drivetrain (1.000 Al Stock) = bearing block for supporting a drive shaft with a bearing of OD 1.125"
 
 Shaft Mount Drivetrain (1.000 Al Stock) = holds a 0.5" OD steel wheel shaft
+
+Wheel Mount Support Plate - drive wheel (0.125 SM) = similar to the above 1/8" sheet metal plate, just different size and mount holes

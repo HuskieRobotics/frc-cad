@@ -6,5 +6,7 @@
 2x Bearing Block Drivetrain (1.000 Al Stock)
 8x Shaft Mount Drivetrain (1.000 Al Stock)
 
+2x Wheel Mount Support Plate - drive wheel (0.125 SM)
+
 
 SEE "Drive Train Read Me" if not already done so
