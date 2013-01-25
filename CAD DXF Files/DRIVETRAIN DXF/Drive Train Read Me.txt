@@ -1,6 +1,8 @@
 Sheet Metal Parts are labeled by (thickness and "SM" and "Bend")
 For example (0.125 SM Bend) means that the sheet metal thickness of the part is 1/8" and there is a bend in the part.
+For the bearing blocks or shaft mounts, the metal stock thickness is given - (1.000 Al Stock) is just 1 inch thick aluminum stock.
 Bend locations are indicated by two small rectangular cuts in the 2d sketch - dimensioned at 0.125"x0.375" normal or 0.125"x0.25" if the part is small
+The rectangular cuts can be edited to whatever you need to bend the sheet metal part. Currently all parts are bent at 90 degrees.
 
 SEE "Drive Train Numerical Count" for how many of each part to make
 
@@ -14,3 +16,7 @@ Mounting Bracket 2 - toughbox-mini (0.125 SM Bend) = second bent sheet metal par
 Wheel Drop Down Plate (0.0625 SM) = simply a small 1/16" sheet metal plate
 
 Wheel Mount Support Plate (0.125 SM) = simply a small 1/8" sheet metal plate
+
+Bearing Block Drivetrain (1.000 Al Stock) = bearing block for supporting a drive shaft with a bearing of OD 1.125"
+
+Shaft Mount Drivetrain (1.000 Al Stock) = holds a 0.5" OD steel wheel shaft

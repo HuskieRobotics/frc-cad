@@ -3,6 +3,8 @@
 2x Mounting Bracket 2 - toughbox-mini (0.125 SM Bend)
 8x Wheel Drop Down Plate (0.0625 SM)
 4x Wheel Mount Support Plate (0.125 SM)
+2x Bearing Block Drivetrain (1.000 Al Stock)
+8x Shaft Mount Drivetrain (1.000 Al Stock)
 
 
 SEE "Drive Train Read Me" if not already done so
