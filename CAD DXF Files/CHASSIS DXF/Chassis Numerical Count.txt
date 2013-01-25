@@ -9,6 +9,9 @@ SEE "Chassis Read Me" if not already done so
 >20x Chassis Connector Plate (0.125 SM)
 8x Chassis Corner Plate (0.125 SM)
 2x Chassis Bumper Mount - front - end (0.125 SM Bend)
-4x Chassis Bumper Mount - front and back (0.125 SM Bend)
+2x Chassis Bumper Mount - front - end - large (0.125 SM Bend)
 2x Chassis Bumper Mount - side - center (0.125 SM Bend)
 4x Chassis Bumper Mount - side - ends (0.125 SM Bend)
+1x Chassis Bumper Mount - back (0.125 SM Bend)
+1x Chassis Bumper Mount - back - mirror (0.125 SM Bend) <-- Mirrored Chassis Bumper Mount - back
+
