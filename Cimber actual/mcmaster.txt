@@ -1,2 +1,2 @@
-91310A558 = bearing block bolts
-Bolt head size = .55 inches
+91310A550= bearing block bolts
+Bolt head size = .55 inches across 
