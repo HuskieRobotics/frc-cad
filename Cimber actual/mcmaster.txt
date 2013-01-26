@@ -1,2 +1,3 @@
 91310A550= bearing block bolts
-Bolt head size = .55 inches across 
+Rope = 3332T56
+lower pulley = 3434T24
