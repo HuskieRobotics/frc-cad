@@ -4,14 +4,27 @@ SEE "Chassis Read Me" if not already done so
 1x Chassis Part2
 2x Chassis Part3
 2x Chassis Part4
-1x Chassis Part7
-2x Chassis Part8
+
+2x Chassis Part9
+1x Chassis Part10
+2x Chassis Part11
+2x Chassis Part12
+
 >20x Chassis Connector Plate (0.125 SM)
 8x Chassis Corner Plate (0.125 SM)
+
+2x Chassis Tower Bracket Part1 (0.125 SM Bend) (1 for each of the two legs)
+2x Chassis Tower Support Plate - for bracket 1  (0.125 SM) (1 for each of the two legs)
+2x Chassis Tower Bracket Part2 (0.125 SM Bend) (2 for one leg)
+2x Chassis Tower Bracket Part3 (0.125 SM Bend) (2 for one leg)
+
+OMIT the following
+:::::::
 2x Chassis Bumper Mount - front - end (0.125 SM Bend)
 2x Chassis Bumper Mount - front - end - large (0.125 SM Bend)
 2x Chassis Bumper Mount - side - center (0.125 SM Bend)
 4x Chassis Bumper Mount - side - ends (0.125 SM Bend)
 1x Chassis Bumper Mount - back (0.125 SM Bend)
 1x Chassis Bumper Mount - back - mirror (0.125 SM Bend) <-- Mirrored Chassis Bumper Mount - back
+:::::::
 
