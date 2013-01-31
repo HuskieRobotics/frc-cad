@@ -1,7 +1,5 @@
-Chassis Part 1 through 8 are the 1x1x1/8 Aluminum Square Tube - (cut to length by each CAD profile)
-There are no parts 5 or 6 because they were omitted during the design process.
-
-Parts 7 and 8 are replaced by Parts 9,10,11,12
+Chassis Part 1 through 12 are the 1x1x1/8 Aluminum Square Tube - (cut to length by each CAD profile)
+There are no parts 5-8 because they were omitted during the design process.
 
 Two dxf profile sides are provided (horizontal face and vertical sides) - all holes are milled completely through. Exceptions stated (such as a blank face)
 
@@ -31,20 +29,3 @@ Chassis Part12		= Tiny Spacing Piece that spaces part 10 from part 9 (3/4 inches
 Chassis Connector Plate (0.125 SM) 				= Generic gusset plate that connects other pieces together plate to plate
 Chassis Corner Plate (0.125 SM) 				= Connects the exterior four corners of our robot
 
-Chassis Tower Bracket Part1 (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects the front two legs of the tower to the chassis
-Chassis Tower Support Plate - for bracket 1  (0.125 SM)		= simple 1/8" aluminum sheet metal piece that bolts to the otherside of the tower legs
-Chassis Tower Bracket Part2 (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects the back leg of the tower to the chassis
-Chassis Tower Bracket Part3 (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects the corner back leg of the tower to the chassis
-
-
-
-
-OMIT: (Bumper Mounts Not Updated)
-[
-Chassis Bumper Mount - front - end (0.125 SM Bend) 		= bent sheet metal part that connects to the front bumpers
-Chassis Bumper Mount - front - end - large (0.125 SM Bend) 	= a larger bent sheet metal part that connects to the front bumpers
-Chassis Bumper Mount - side - center (0.125 SM Bend) 		= bent sheet metal part that connects to the side bumpers from the center
-Chassis Bumper Mount - side - ends (0.125 SM Bend) 		= bent sheet metal part that connects to the side bumpers
-Chassis Bumper Mount - back (0.125SM Bend) 			= bent sheet metal part that connnects to the back bumpers
-Chassis Bumper Mount - back - mirror (01.125 SM Bend) 		= MIRRORED bent sheet metal part that connects to the back bumpers
-]
