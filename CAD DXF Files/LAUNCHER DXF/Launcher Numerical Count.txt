@@ -1,0 +1,70 @@
+.125 polycarb:
+
+1 of Hopper forward plate
+
+1 of Hopper Side wall
+
+1 of Hopper Top
+
+1 of Hopper wing
+
+1 of Hopper left side
+
+1 of Hopper right side
+
+1 of Hopper deflector
+
+
+
+.25 polycarb:
+
+1 of Hopper rail
+
+1 of Hopper Bottom
+
+1 of hopper left rail
+
+1 of hopper mount
+
+1 of shooter rails
+
+
+
+.5 polycarb:
+
+1 of inner shooter rail
+
+1 of outer shooter rail
+
+5 of shooter wall
+
+1 of spacer
+
+
+
+.125 Aluminum=
+
+2 of Flywheel Hub
+
+1 of shooter main plate
+
+2 of hub
+
+1 of cylinder mount
+
+4 of straight gusset
+
+1 of right angle gusset
+
+
+.25 Aluminum=
+
+3 of flywheel spacer
+
+1 of launcher top support
+
+1 of launcher bottom support
+
+1 of 11 tooth spur gear
+
+1 of mother of all gears

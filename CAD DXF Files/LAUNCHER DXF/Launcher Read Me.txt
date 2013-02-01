@@ -1,0 +1,18 @@
+Parts are organized by material and thickness in directory.
+Material, thickness and presence of bend is indicated in parenthesis after part name. 
+
+Parts including bends which are sensitive to direction are marked (Material thickness BEND - SENSITIVE) and also have 3-view engineering drawings (saved as PDFs) 
+under the same name to allow you to easily tell the direction of the bend and final shape of the part.
+
+Bends are indicated by .125*.25 inch rectangles centered about the bend line (the .25 inch sides are paralell to the bend line). 
+Moses and I are working on a way to indicate them using construction lines, but it makes exporting quite tricky.
+
+
+
+
+
+
+
+If thickness in part name and where in the directory the part is organized conflicts, or file opening problems exist, please email me at arpan.rau@gmail.com.
+
+If there's any way to streamline this exporting process for you, please let us know. 
