@@ -1,0 +1,61 @@
+﻿Simulation Simulation:1 started: 1/31/2013, 5:22:25 PM
+Number of configurations: 1
+Default mesh: 19558 elements, 38024 nodes
+Simulation Simulation:1 finished: 1/31/2013, 5:23:02 PM
+Total time 0:00:37
+
+Simulation Simulation:1 started: 1/31/2013, 5:24:01 PM
+Number of configurations: 1
+Default mesh: 19558 elements, 38024 nodes
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 30.5s
+Convergence rate: 48.6%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 1/31/2013, 5:24:33 PM
+Total time 0:00:32
+
+Simulation Simulation:1 started: 1/31/2013, 5:26:19 PM
+Number of configurations: 1
+Default mesh: 19558 elements, 38024 nodes
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 30.5s
+Convergence rate: 48.6%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 1/31/2013, 5:26:51 PM
+Total time 0:00:32
+
+Simulation Simulation:1 started: 1/31/2013, 5:28:17 PM
+Number of configurations: 1
+Simulation Simulation:1 finished: 1/31/2013, 5:28:17 PM
+Total time 0:00:00
+
+Simulation Simulation:1 started: 1/31/2013, 5:29:17 PM
+Number of configurations: 1
+Default mesh: 19558 elements, 38024 nodes
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 31.1s
+Convergence rate: 17.3%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 1/31/2013, 5:29:50 PM
+Total time 0:00:33
+
+Simulation Simulation:1 started: 1/31/2013, 5:31:34 PM
+Number of configurations: 1
+Default mesh: 19558 elements, 38024 nodes
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 31.6s
+Convergence rate: 17.3%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 1/31/2013, 5:32:07 PM
+Total time 0:00:33
+
+Simulation Simulation:1 started: 1/31/2013, 5:32:37 PM
+Number of configurations: 1
+Default mesh: 19558 elements, 38024 nodes
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 31.5s
+Convergence rate: 17.3%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 1/31/2013, 5:33:11 PM
+Total time 0:00:34
+
