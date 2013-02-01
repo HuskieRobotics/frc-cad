@@ -56,6 +56,20 @@
 
 1 of right angle gusset
 
+5 of gusset wide hole (BEND) 
+
+6 of gusset narrow hole (BEND)
+
+4 of tiny gusset (BEND)
+
+1 of hard stop (BEND)
+
+2 of bearing mount (BEND)
+
+1 of shooter support (BEND)
+
+1 of encoder mount (BEND- SPECIFIC)
+
 
 .25 Aluminum=
 

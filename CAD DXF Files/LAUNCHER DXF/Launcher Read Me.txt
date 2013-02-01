@@ -5,6 +5,9 @@ Parts including bends which are sensitive to direction are marked (Material thic
 under the same name to allow you to easily tell the direction of the bend and final shape of the part.
 
 Bends are indicated by .125*.25 inch rectangles centered about the bend line (the .25 inch sides are paralell to the bend line). 
+There will be two rectangles per bend. If a part is indicated as bent, use those rectangles to pull the bend location
+ but PLEASE REMOVE THEM FROM THE DRAWING BEFORE CUTTING. they are only there to indicate the location of a bend.
+
 Moses and I are working on a way to indicate them using construction lines, but it makes exporting quite tricky.
 
 
