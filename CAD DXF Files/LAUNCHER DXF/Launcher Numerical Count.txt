@@ -70,6 +70,15 @@
 
 1 of encoder mount (BEND- SPECIFIC)
 
+1 of flange bearing mount tower (BEND - SPECIFIC)
+
+1 of flange bearing mount tower mirror (BEND - SPECIFIC)
+
+1 of Hopper Inner plate (BEND - SPECIFIC)
+
+1 of pneumatic puller mount (BEND- SPECIFIC)
+
+1 of Cylinder mount rear (BEND - SPECIFIC)
 
 .25 Aluminum=
 
