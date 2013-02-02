@@ -91,10 +91,10 @@
 
 1 of Puller Mechanism (BEND - SPECIFIC)
 
+1 of Encoder Mount 2 (BEND - SPECIFIC)
+
 
 .25 Aluminum=
-
-
 
 1 of launcher top support
 
@@ -103,6 +103,9 @@
 1 of 11 tooth spur gear
 
 1 of mother of all gears
+
+1 of Gear for Angling
+
 
 .25 steel:
 

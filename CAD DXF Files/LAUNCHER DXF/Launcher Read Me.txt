@@ -10,7 +10,19 @@ There will be two rectangles per bend. If a part is indicated as bent, use those
 
 Moses and I are working on a way to indicate them using construction lines, but it makes exporting quite tricky.
 
+.
+For square tube, one face and a perpendicular face are exported. 
+Please note that the faces have to be cut correctly relative to each other. 
+To help you align the tube , PDF file 3-views are provided. 
+One tube, square tube 3, has 45-degree chamfers on both ends. Thus, the "right" and "opposite to right" faces
+are provided. You can use either to guide cutting the holes, but one line will need to be not cut by the jet
+in order to avoid cutting off the chamfer. Check what you are making against the PDF while aligning for all parts
+- It'll help with reltive alignment of each face a lot.
 
 If thickness in part name and where in the directory the part is organized conflicts, or file opening problems exist, please email me at arpan.rau@gmail.com.
 
 If there's any way to streamline this exporting process for you, please let us know. 
+
+Thanks,
+
+Arpan
