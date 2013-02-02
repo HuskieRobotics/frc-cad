@@ -6,3 +6,5 @@ SEE "Chassis Read Me" if not already done so
 2x Chassis Tower Bracket Part3 (0.125 SM Bend) (2 for one leg)
 
 20x Chassis Bumper Mount 1 Hole (0.125 SM Bend)
+
+1x Mounting Board 3 (0.125 SM)

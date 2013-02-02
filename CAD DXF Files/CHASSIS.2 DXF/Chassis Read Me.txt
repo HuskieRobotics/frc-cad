@@ -16,3 +16,4 @@ Chassis Tower Bracket Part2 (0.125 SM Bend)			= 90 degree bent aluminum sheet me
 Chassis Tower Bracket Part3 (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects the corner back leg of the tower to the chassis
 
 Chassis Bumper Mount 1 Hole (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects bumpers to the chassis with pins
+Mounting Board 3 (0.125 SM)					= simple 1/8" aluminum sheet metal part for mounting CRIo and Compressor

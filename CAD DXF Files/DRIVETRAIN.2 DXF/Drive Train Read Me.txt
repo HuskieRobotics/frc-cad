@@ -9,4 +9,4 @@ SEE "Drive Train Numerical Count" for how many of each part to make
 PARTS:
 Wheel Mount Support Plate (0.125 SM) = 1/8" aluminum support plate for the driven wheels
 Wheel Mount Support Plate - drive wheel (0.125 SM) = 1/8" support plate for the drive wheels
-Custom Belt Pulley Hub (0.0625 SM) = 1/16" aluminum sheet metal pulley hub without a hex
+
