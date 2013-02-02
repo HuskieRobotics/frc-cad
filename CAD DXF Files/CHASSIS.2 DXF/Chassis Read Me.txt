@@ -15,9 +15,4 @@ Chassis Tower Support Plate - for bracket 1  (0.125 SM)		= simple 1/8" aluminum 
 Chassis Tower Bracket Part2 (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects the back leg of the tower to the chassis
 Chassis Tower Bracket Part3 (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects the corner back leg of the tower to the chassis
 
-Chassis Bumper Mount - front - end (0.125 SM Bend) 		= bent sheet metal part that connects to the front bumpers
-Chassis Bumper Mount - front - end - large (0.125 SM Bend) 	= a larger bent sheet metal part that connects to the front bumpers
-Chassis Bumper Mount - side - center (0.125 SM Bend) 		= bent sheet metal part that connects to the side bumpers from the center
-Chassis Bumper Mount - side - ends (0.125 SM Bend) 		= bent sheet metal part that connects to the side bumpers
-Chassis Bumper Mount - back (0.125SM Bend) 			= bent sheet metal part that connnects to the back bumpers
-Chassis Bumper Mount - back - mirror (01.125 SM Bend) 		= MIRRORED bent sheet metal part that connects to the back bumpers
+Chassis Bumper Mount 1 Hole (0.125 SM Bend)			= 90 degree bent aluminum sheet metal that connects bumpers to the chassis with pins
