@@ -1,0 +1,16 @@
+Parts are organized by material and thickness in directory.
+
+Material, thickness and presence of bend is indicated in parenthesis after part name. 
+
+Parts including bends which are sensitive to direction are marked (Material thickness BEND - SENSITIVE) or (BEND-SPECIFIC) and also have 3-view engineering drawings (saved as PDFs) under the same name to allow you to easily tell the direction of the bend and final shape of the part.
+
+Bends are indicated by .125*.25 inch rectangles centered about the bend line (the .25 inch sides are paralell to the bend line). There will be two rectangles per bend. If a part is indicated as bent, use those rectangles to pull the bend location
+
+
+For square tube, one face and a perpendicular face are exported. 
+Please note that the faces have to be cut correctly relative to each other. 
+To help you align the tube, PDF file 3-views are provided. 
+
+One tube, square tube 3, has 45-degree chamfers on both ends. Thus, the "right" and "opposite to right" faces are provided. You can use either to guide cutting the holes, but one line will need to be not cut by the jet in order to avoid cutting off the chamfer. Check what you are making against the PDF while aligning for all parts - It'll help with reltive alignment of each face a lot.
+
+If there's any way to streamline this exporting process for you, please let us know. 

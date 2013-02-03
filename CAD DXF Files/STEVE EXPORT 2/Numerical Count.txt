@@ -1,0 +1,79 @@
+.0625 polycarb:
+
+1x Hopper Back Plate
+
+
+.125 polycarb:
+
+1x Hopper forward plate
+1x Hopper Side wall
+1x Hopper Top
+1x Hopper wing
+1x Hopper left side
+1x Hopper right side
+1x Hopper deflector
+
+
+.25 polycarb:
+
+1x Hopper rail
+1x Hopper Bottom
+1x hopper left rail
+1x hopper mount
+1x shooter rails
+
+
+.5 polycarb:
+
+1x inner shooter rail
+1x outer shooter rail
+5x shooter wall
+1x spacer
+
+
+.125 Aluminum=
+
+2x Flywheel Hub
+1x shooter main plate
+2x hub
+1x cylinder mount
+4x straight gusset
+1x right angle gusset
+5x gusset wide hole (BEND) 
+6x gusset narrow hole (BEND)
+4x tiny gusset (BEND)
+1x hard stop (BEND)
+2x bearing mount (BEND)
+1x shooter support (BEND)
+1x encoder mount (BEND- SPECIFIC)
+1x flange bearing mount tower (BEND - SPECIFIC)
+1x flange bearing mount tower mirror (BEND - SPECIFIC)
+1x Hopper Inner plate (BEND - SPECIFIC)
+1x pneumatic puller mount (BEND- SPECIFIC)
+1x Cylinder mount rear (BEND - SPECIFIC)
+1x Snowblower Mount (BEND - SPECIFIC)
+1x CIM Mount (BEND - SPECIFIC)
+1x Puller Mechanism (BEND - SPECIFIC)
+1x Encoder Mount 2 (BEND - SPECIFIC)
+6x Wheel Mount Support Plate (0.125 SM) (missing from Monday; maybe at shop?)
+1x Wheel Mount Support Plate - drive wheel (0.125 SM) (missing from Monday; maybe at shop?)
+2x Chassis Tower Bracket Part1 (0.125 SM Bend) (1 for each of the two legs)
+2x Chassis Tower Support Plate - for bracket 1  (0.125 SM) (1 for each of the two legs)
+2x Chassis Tower Bracket Part2 (0.125 SM Bend) (2 for one leg)
+2x Chassis Tower Bracket Part3 (0.125 SM Bend) (2 for one leg)
+20x Chassis Bumper Mount 1 Hole (0.125 SM Bend)
+1x Mounting Board 3 (0.125 SM)
+
+
+.25 Aluminum=
+
+1x launcher top support
+1x launcher bottom support
+1x 11 tooth spur gear
+1x mother of all gears
+1x Gear for Angling
+
+
+.25 steel:
+
+3x flywheel spacer
