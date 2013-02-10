@@ -1,0 +1,62 @@
+.25 polycarbonate
+
+6 of Custom Belt Pulley Hex Hub
+
+
+.125 aluminum
+
+2 of V mount plate
+2 of end pulley mount
+2 of upper face mount
+2 of face mount
+3 of small tie -together (Bend both flanges in the same direction)
+4 of tie together (bend both flanges in the same direction)
+2 of endstop 5 (bend)
+1 of endstop (bend - specific)
+1 of endstop 2 (bend- specific)
+2 of bottom pulley mount (bend both flanges in the same direction)
+1 of p80 mount plate
+1 of back brace mount v2 (bend- specific)
+1 of battery mount (bend - specific)
+2 of winch support
+2 of winch back support
+1 of anti-chain tension
+1 of centering ring
+1 of right angle gusset
+1 of spacer plate
+3 of winch mount flange (bend both flanges int he same direction)
+1 of pillow block for arm bearing mount (bend - specific)
+1 of arm assembly mount plate (bend- specific)
+1 of arm mount 2(bend specific)
+1 of arm mount 3(bend -specific)
+1 of pg-71 mount (bend- specific)
+1 of paul mont (bend- specific)
+1 of cylinder mount (bend- specific)
+1 of breaker mount (bend - specific)
+1 of p80 gearbox spacer
+
+.125 steel
+
+2 of rachet hub
+2 of passive hook
+2 of arm mount
+
+.25 steel
+
+2 of hook (WELD)
+1 of hook mount plate (bend- specific)
+1 of hook mount plate 2 (bend - specific)
+1 of hook faceplate (WELD) 
+
+
+.125 1*1 square tube 
+1 of v support top (no holes cut in perpendicular faces)
+
+1 inch bar stock
+4 of bearing block
+2 of clevis bracket
+1 of pillow block for arm bearing
+
+.5 polycarbonate
+
+1 of shooter wall
