@@ -1,9 +1,9 @@
-.25 polycarbonate
+0.25 polycarbonate
 
 6 of Custom Belt Pulley Hex Hub
 
 
-.125 aluminum
+0.125 aluminum
 
 2 of V mount plate
 2 of end pulley mount
@@ -35,13 +35,15 @@
 1 of breaker mount (bend - specific)
 1 of p80 gearbox spacer
 
-.125 steel
+
+0.125 steel
 
 2 of rachet hub
 2 of passive hook
 2 of arm mount
 
-.25 steel
+
+0.25 steel
 
 2 of hook (WELD)
 1 of hook mount plate (bend- specific)
@@ -49,14 +51,18 @@
 1 of hook faceplate (WELD) 
 
 
-.125 1*1 square tube 
+1" x 1" x 1/8" square aluminum tube 
+
 1 of v support top (no holes cut in perpendicular faces)
 
-1 inch bar stock
+
+1" x 1.5" aluminum bar
+
 4 of bearing block
 2 of clevis bracket
 1 of pillow block for arm bearing
 
-.5 polycarbonate
+
+0.5 polycarbonate
 
 1 of shooter wall

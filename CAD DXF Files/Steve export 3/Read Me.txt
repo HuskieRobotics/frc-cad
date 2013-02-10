@@ -1,6 +1,7 @@
-Export is more or less the same as before. Parts are sorted by part material. Please note that bends are now marked 
-by 16th by 16th notches on the edges of parts - the quarter by eigth cuts were actually causing us a few problems when 
-assembling.
+Export is more or less the same as before. Parts are sorted by part material. Please note that bends are now marked by 16th by 16th notches on the edges of parts - the quarter by eigth cuts were actually causing us a few problems when assembling.
 
-There is one piece of square tube which is eigth inch wall 1*1 tube.
+There is one piece of square tube which is 1" x 1" x 1/8" square aluminum tube.
+
+A couple of steel pieces need to be welded. Please call if it isn't clear what to weld.
+
 
