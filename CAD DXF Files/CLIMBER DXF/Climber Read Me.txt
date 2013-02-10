@@ -1,0 +1,6 @@
+Export is more or less the same as before. Parts are sorted by part material. Please note that bends are now marked 
+by 16th by 16th notches on the edges of parts - the quarter by eigth cuts were actually causing us a few problems when 
+assembling.
+
+There is one piece of square tube which is eigth inch wall 1*1 tube.
+
