@@ -1,0 +1,46 @@
+﻿Simulation Simulation:2 started: 2/16/2013, 10:57:11 PM
+Number of configurations: 1
+Simulation Simulation:2 finished: 2/16/2013, 10:57:12 PM
+Total time 0:00:01
+
+Simulation Simulation:2 started: 2/16/2013, 10:57:20 PM
+Number of configurations: 1
+Default mesh: 785 elements, 1634 nodes
+Solution time 1.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 2/16/2013, 10:57:23 PM
+Total time 0:00:03
+
+Simulation Simulation:2 started: 2/16/2013, 10:59:04 PM
+Number of configurations: 1
+Default mesh: 1191 elements, 2485 nodes
+Solution time 1.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 2/16/2013, 10:59:08 PM
+Total time 0:00:04
+
+Simulation Simulation:2 started: 2/16/2013, 11:00:14 PM
+Number of configurations: 1
+Default mesh: 1191 elements, 2485 nodes
+Solution time 2.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 2/16/2013, 11:00:17 PM
+Total time 0:00:03
+
+Simulation Simulation:2 started: 2/16/2013, 11:13:36 PM
+Number of configurations: 1
+Default mesh: 1191 elements, 2485 nodes
+Solution time 2.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 2/16/2013, 11:13:41 PM
+Total time 0:00:05
+
+Simulation Simulation:2 started: 2/16/2013, 11:20:24 PM
+Number of configurations: 1
+Simulation Simulation:2 finished: 2/16/2013, 11:20:24 PM
+Total time 0:00:00
+
